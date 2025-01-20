@@ -4,16 +4,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: Verdana;
 }
 
 h1 {
     color: #fff;
     text-align: center;
+    font-size: 50px;
+    font-weight: normal;
 }
 
 a {
     color: aquamarine;
-    
+    font-size: 16px;
 }
 
 video {
@@ -23,12 +26,20 @@ video {
 
 h2 {
     color: #fff;
+    font-weight: 300;
     text-align: center;
+    font-size: 42px;
 }
 
 p {
-    color: #fff;
+    color: gray;
     text-align: center;
+    font-size: 21px;
+}
+
+footer p {
+    color: gray;
+    align-self: self-end;
 }
 
 img {
