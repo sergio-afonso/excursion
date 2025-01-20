@@ -49,10 +49,13 @@ p {
 }
 
 .last-section-container {
+    margin-top: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
+
 
 footer p {
     color: gray;
